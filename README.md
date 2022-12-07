@@ -5,7 +5,7 @@ Tetris 2.0 is a simple yet challenging console-based game written in pure java.
 It is designed with simplicity in mind. 
 
 This is my solution for the final assignment for programming course (Fundamentals of Programming) at the [University of Malaya](https://www.um.edu.my/).
-The complete question set can be found [here](https://github.com/kphilemon/tetris-2.0/blob/master/Tetris%202.0%20Question.pdf).
+The complete question set can be found [here](https://github.com/lee-quan/tetris-2.0/blob/main/Tetris%202.0%20Question.pdf).
 
 Disclaimer: this is not the one-and-only solution for the question.
 
