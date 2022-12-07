@@ -1,0 +1,6 @@
+out
+.idea
+*.iml
+*.class
+
+src/high_score.txt
